@@ -1,1 +1,1 @@
-# TSM_Chinese
+# TSM_Chinese 本文件为光遇TSM模块的首发原始汉化，为了与其他汉化以及搬运区分和警告，发布与此。---构建者Dexicty
