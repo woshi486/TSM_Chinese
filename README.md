@@ -2,8 +2,9 @@
 
 使用方法: 
           1.点击Releases进行下载
-          1.打开That Sky App.exe
-          2.点击Open mod install folder
-          3.打开TSM Resources\i18n文件夹并将下载完的文件拖入里面
-          4.返回That Sky App并点击Inject mod
-          5.在That Sky Mod中找到setting/language并选择"简中「Dexicty 0.53.0」"即可使用。
+          2.打开That Sky App.exe
+          3.点击Open mod install folder
+          4.打开TSM Resources\i18n文件夹并将下载完的文件拖入里面
+          5.返回That Sky App并点击Inject mod
+          6.在That Sky Mod中找到setting/language并选择"简中「Dexicty 0.53.0」"即可使用。
+最近看到两三个对我的文件进行修改而没有告知我的，但还是在此感谢Angel的二改
