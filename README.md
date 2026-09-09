@@ -1,6 +1,7 @@
-# TSM_Chinese 本文件为光遇TSM模块的首发原始汉化，用于发布更新后的原始文件，以方便Angel对此文件的完善和更新。---构建者Dexicty
+# TSM_Chinese 本文件为光遇TSM模块的首发原始汉化，属于发布更新后的原始文件，用于方便Angel对此文件的完善和更新。---构建者Dexicty
 
 使用方法: 
+
           1.点击Releases进行下载
 
           2.打开That Sky App.exe
